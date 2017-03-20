@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: black; }
+
+canvas {
+  filter: blur(20px) contrast(500%) hue-rotate(30DEG);
+  transform: translate(-10px, -10px); }
+
+#container {
+  width: 490px;
+  height: 490px;
+  overflow: hidden; }
+
+/*# sourceMappingURL=trail.css.map */
