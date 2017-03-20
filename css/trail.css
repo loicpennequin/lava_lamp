@@ -5,7 +5,7 @@ body {
   background-color: black; }
 
 canvas {
-  filter: blur(20px) contrast(500%) hue-rotate(30DEG);
+  filter: blur(20px) contrast(500%);
   transform: translate(-10px, -10px); }
 
 #container {
